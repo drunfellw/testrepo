@@ -1,3 +1,3 @@
-function selam() {
-    
+function topla(a,b) {
+    return a+b;
 }
