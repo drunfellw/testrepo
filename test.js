@@ -3,5 +3,5 @@ function topla(a,b) {
 }
 
 function cikarma(params) {
-    return params
+    return params.toString()
 }
