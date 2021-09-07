@@ -5,3 +5,6 @@ function topla(a,b) {
 function mesaj(msg) {
     return msg
 }
+function cikarma(params) {
+    return params.toString()
+}
